@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.lpu</groupId>
-  <artifactId>HibernateDemo</artifactId>
+  <groupId>com.assessment</groupId>
+  <artifactId>WeeklyAssessment3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>HibernateDemo</name>
+  <name>WeeklyAssessment3</name>
   <dependencies>
-  <!-- Source: https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core -->
+    <!-- Source: https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core -->
 <dependency>
     <groupId>org.hibernate.orm</groupId>
     <artifactId>hibernate-core</artifactId>
